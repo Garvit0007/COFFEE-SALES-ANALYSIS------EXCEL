@@ -28,5 +28,3 @@ The primary objective of this analysis was to identify sales patterns and custom
 * `Requirements.md`: A brief overview of the business questions this project aims to answer.
 
 ---
-
-**Would you like me to help you write a `README.md` file with a "Key Insights" section to show off what you actually discovered in the data?**
